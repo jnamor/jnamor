@@ -2,7 +2,7 @@
 
 ## Je suis Développeur, Pompier Volontaire and aspirant-Formateur !
 
-- 🔭 Je travaille actuellement sur un Système de Recommandation de films, un Chatbot and plein d'autres projet à venir !
+- 🔭 Je travaille actuellement sur un Système de Recommandation de films, un Chatbot and plein d'autres projets à venir !
 - 🌱 Je concentre principalement mon apprentissage sur des projets de Data Science, Data Engineering and DevOps
 - 🏔️ Parce qu'enseigner, c'est apprendre, je vise à créer ma chaîne YouTube spécialisée dans la donnée
 - 🥅 Mes objectifs 2022 : Acquérir l'expérience et les bonnes pratiques d'un Développeur senior
