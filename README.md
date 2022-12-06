@@ -1,6 +1,6 @@
 # Hello 👋, je m'appelle Jordan  
 
-## Je suis Développeur, Pompier Volontaire and aspirant-Formateur !
+## Je suis Développeur, Pompier Volontaire et aspirant-Formateur !
 
 - 🔭 Je travaille actuellement sur un Système de Recommandation de films, un Chatbot and plein d'autres projets à venir !
 - 🌱 Je concentre principalement mon apprentissage sur des projets de Data Science, Data Engineering and DevOps
