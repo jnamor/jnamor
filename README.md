@@ -35,4 +35,4 @@ Je conserve aussi mes explorations autour de la donnée : [recommandation de fil
 
 [Reddit News Monitor](https://github.com/jnamor/reddit-news-monitor) est un prototype personnel en ligne de commande, avec démonstration fictive hors ligne ; l’accès réel reste soumis à l’autorisation de Reddit.
 
-**Portfolio : en préparation** — études de cas sur le GitOps, l’observabilité, les ressources et l’automatisation IoT. Le lien sera ajouté après publication et vérification.
+**[Mon portfolio](https://jnamor.github.io/)** — études de cas sur le GitOps, l’observabilité, les ressources et l’automatisation IoT.
