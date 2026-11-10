@@ -1,32 +1,38 @@
-# Hello 👋, je m'appelle Jordan  
+# Jordan Namor — Ingénieur DevOps & Cloud
 
-## Je suis Développeur, Pompier Volontaire et aspirant-Formateur !
+Chez **Kikleo**, j’assure l’exploitation et l’évolution des infrastructures cloud, les déploiements et les automatisations. Je travaille avec les développeurs pour rendre la livraison plus reproductible, comprendre les incidents et adapter les ressources aux usages.
 
-- 🔭 Je travaille actuellement sur un Système de Recommandation de films, un Chatbot and plein d'autres projets à venir !
-- 🌱 Je concentre principalement mon apprentissage sur des projets de Data Science, Data Engineering and DevOps
-- 🏔️ Parce qu'enseigner, c'est apprendre, je vise à créer ma chaîne YouTube spécialisée dans la donnée
-- 🥅 Mes objectifs 2022 : Acquérir l'expérience et les bonnes pratiques d'un Développeur senior
-- ⚡ Fait sur moi : J'adore la plongée sous-marine !
+## Ce que je construis et fais évoluer
+
+- **Infrastructure & GitOps** : construction d’un dispositif Kubernetes/FluxCD sur OVH à partir de la démarche existante sur AWS ; reprise de l’exploitation de la fondation AWS conçue par le directeur technique.
+- **Infrastructure as code** : introduction de Terraform pour les environnements de test, puis description progressive de l’existant et détection des dérives avec arbitrage humain.
+- **Observabilité** : initiative et déploiement de Prometheus, Grafana et Loki ; accès autonome des développeurs aux métriques et logs, dashboards et alertes d’exploitation.
+- **Automatisation Linux & IoT** : développement et utilisation de jobs Ansible/SSH et de rapports HTML en Python/Jinja2 pour les interventions sur des équipements distants.
+
+Mon travail de diagnostic infrastructure se distingue des corrections applicatives réalisées par les développeurs.
+
+**Outils utilisés en contexte professionnel** : AWS, OVH, Kubernetes, FluxCD, Helm, Terraform, Docker, GitHub Actions, Python, Ansible, Linux, Prometheus, Grafana, Loki et CloudWatch.
 
 
-### Languages and Tools:
+<p>
+  <img src="assets/icons/kubernetes.svg" alt="Kubernetes" width="32" height="32" />
+  <img src="assets/icons/terraform.svg" alt="Terraform" width="32" height="32" />
+  <img src="assets/icons/docker.svg" alt="Docker" width="32" height="32" />
+  <img src="assets/icons/python.svg" alt="Python" width="32" height="32" />
+  <img src="assets/icons/ansible.svg" alt="Ansible" width="32" height="32" />
+  <img src="assets/icons/grafana.svg" alt="Grafana" width="32" height="32" />
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+## Formation et explorations
+
+- **2023–2025 · Master DevOps et Cloud — Sup de Vinci ISI Paris.** GitLab CI/CD, Azure/AKS, Terraform Azure, Argo CD, GCP/GKE et projet API/CLI en Go.
+- **2021–2023 · Bachelor Data et Intelligence Artificielle — Simplon Nancy.** Spécialisation en IA, développement de modèles et classification.
+- **2020–2021 · Formation Data Développeur — Simplon Paris.** Collecte de données avec Scrapy, bases de données et requêtes.
+
+Ce parcours data de 2020 à 2023 explique les projets de donnée et d’IA présents dans mes archives. Mes projets de formation sont distincts de mon expérience professionnelle AWS/OVH.
+
+Je conserve aussi mes explorations autour de la donnée : [recommandation de films](https://github.com/jnamor/recommander-system) et [chatbot PyTorch](https://github.com/jnamor/chat-bot). Ces archives d’apprentissage ne sont pas présentées comme des produits de production.
+
+[Reddit News Monitor](https://github.com/jnamor/reddit-news-monitor) est un prototype personnel en ligne de commande, avec démonstration fictive hors ligne ; l’accès réel reste soumis à l’autorisation de Reddit.
+
+**Portfolio : en préparation** — études de cas sur le GitOps, l’observabilité, les ressources et l’automatisation IoT. Le lien sera ajouté après publication et vérification.
